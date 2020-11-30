@@ -1,0 +1,10 @@
+name: SellAllCreator
+version: 1.0
+api-version: 1.16
+author: _Matrax_
+description: Plugin for use sell all commands
+database: false
+main: com.fr.matrax.sellallcreator.Main
+commands:
+  sellall:
+    description: Commands for the plugin SellAllCreator !
